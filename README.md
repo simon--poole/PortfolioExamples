@@ -1,5 +1,17 @@
 # Portfolio Examples
 
+I wanted to absorb a lot of different portfolio sites before I started working on my own. 
+
+Most of these were dug up on reddit. 
+
+Also, there's lots of [good advice about portfolio sites](https://www.reddit.com/r/webdev/comments/1nzzsn/cant_make_a_portfolio/) in this thread. 
+
+# Contributing
+
+Feel free to add more (in alphabetical order), or remove yours if you'd rather not have it here. 
+
+# The List!
+
 * [aaronholmes.net](http://aaronholmes.net)
 * [abbyhubbard.design](http://abbyhubbard.design)
 * [acko.net](http://acko.net)
