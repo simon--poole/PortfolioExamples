@@ -56,7 +56,7 @@
 * [crmpicco.co.uk](http://crmpicco.co.uk)
 * [daman2408.github.io/my-portfolio](http://daman2408.github.io/my-portfolio)
 * [damianschwyrz.de](http://damianschwyrz.de)
-* [dentefederico.altervista.org/#](http://dentefederico.altervista.org/#)
+* [dentefederico.altervista.org](http://dentefederico.altervista.org)
 * [derekknox.com](http://derekknox.com)
 * [dividedzero.com](http://dividedzero.com)
 * [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio)
