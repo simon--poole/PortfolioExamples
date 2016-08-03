@@ -33,6 +33,7 @@ Feel free to add more (in alphabetical order), or remove yours if you'd rather n
 * [bree-eros.github.io](http://bree-eros.github.io)
 * [briandelaney.com](http://briandelaney.com)
 * [byronsadik.com](http://byronsadik.com)
+* [cabbi.bo](http://cabbi.bo/)
 * [callmenick.com](http://callmenick.com)
 * [cameronaskin.info](http://cameronaskin.info)
 * [chrispederick.com](http://chrispederick.com)
