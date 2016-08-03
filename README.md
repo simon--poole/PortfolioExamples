@@ -2,9 +2,11 @@
 
 I wanted to absorb a lot of different portfolio sites before I started working on my own. 
 
-Most of these were dug up on reddit. 
+Most of these were dug up on reddit. Some have things I really like and want to emulate, some have things I want to avoid, and a lot of them have both. 
 
-Also, there's lots of [good advice about portfolio sites](https://www.reddit.com/r/webdev/comments/1nzzsn/cant_make_a_portfolio/) in this thread. 
+At some point I may go back and curate this list better or add notes on ones that stand out. For now I found it useful just to immerse myself in lots of examples to get my brain moving. 
+
+There's lots of [good advice about portfolio sites](https://www.reddit.com/r/webdev/comments/1nzzsn/cant_make_a_portfolio/) in this thread. 
 
 # Contributing
 
