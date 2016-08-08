@@ -100,7 +100,6 @@ Feel free to add more (in alphabetical order), or remove yours if you'd rather n
 * [helgesverre.com](http://helgesverre.com)
 * [hrek.me](http://hrek.me)
 * [httpete.com](http://httpete.com)
-* [hmfaysal.me/hmfaysal-omega-theme](http://hmfaysal.me/hmfaysal-omega-theme/)
 * [ignaciorivas.me](http://ignaciorivas.me)
 * [igvita.com](http://igvita.com)
 * [ilikeprograms.com](http://ilikeprograms.com)
