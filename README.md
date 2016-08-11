@@ -21,24 +21,21 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [bree-eros.github.io](http://bree-eros.github.io)
 1. **[cameronaskin.info](http://cameronaskin.info)** - Polished single-page design
 1. [codepen.io/ketnelson](http://codepen.io/ketnelson/full/LNjLVW) - Nice colors & blurred backgrounds
-1. [codepen.io/merraysy](http://codepen.io/merraysy/full/KzpwJG)
 1. [codepen.io/oneate7](http://codepen.io/oneate7/full/qdGprg) - Icons for each project
-1. [coryhughart.com](http://coryhughart.com)
+1. [coryhughart.com](http://coryhughart.com) - Nice style and art
 1. [desandro.com](http://desandro.com/)
 1. [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio) - fsociety themed
 1. [felixsun.me](http://felixsun.me)
 1. **[guglieri.com](http://guglieri.com)** - Very polished single-page design
 1. [hanno.co](http://hanno.co)
-1. [helgesverre.com](http://helgesverre.com)
 1. [httpete.com](http://httpete.com)
 1. [ivesvh.com](http://ivesvh.com) - Lots of animation
 1. [joma-web-schmie.de](http://joma-web-schmie.de)
-1. [josegarrido.me](http://josegarrido.me)
 1. [joshkissel.com](http://joshkissel.com)
 1. [justingillespie.com](http://justingillespie.com)
 1. [manparvesh.github.io](http://manparvesh.github.io/)
 1. [marcuseisele.com](http://marcuseisele.com)
-1. [michaelpumo.com](http://michaelpumo.com/)
+1. [michaelpumo.com](http://michaelpumo.com/) - Nice cover
 1. [ruigomes.me](http://ruigomes.me)
 1. [sambedingfield.com](http://sambedingfield.com) - Nice art
 1. [shaykyasin.github.io](http://shaykyasin.github.io) - Nice cover page & colors
