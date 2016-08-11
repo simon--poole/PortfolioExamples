@@ -12,6 +12,8 @@ There's lots of [good advice about portfolio sites](https://www.reddit.com/r/web
 
 Feel free to add more (in alphabetical order), or remove yours if you'd rather not have it here. 
 
+Please follow the existing format.
+
 # Highlights
 
 Here are some that I like, whether it be their overall design, the colors, or just a small UX touch. 
