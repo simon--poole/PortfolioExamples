@@ -17,41 +17,32 @@ Feel free to add more (in alphabetical order), or remove yours if you'd rather n
 Here are some that I like, whether it be their overall design, the colors, or just a small UX touch. 
 
 1. [abbyhubbard.design](http://abbyhubbard.design)
-1. [briandelaney.com](http://briandelaney.com)
+1. **[briandelaney.com](http://briandelaney.com)** - Very cool single-page design
 1. [bree-eros.github.io](http://bree-eros.github.io)
-1. [brandondail.me](http://brandondail.me)
-1. [cameronaskin.info](http://cameronaskin.info)
-1. [codepen.io/gazzer82](http://codepen.io/gazzer82/full/gpVQQd)
-1. [codepen.io/ketnelson](http://codepen.io/ketnelson/full/LNjLVW)
-1. [codepen.io/LubaMay](http://codepen.io/LubaMay/full/YqZRWd)
+1. **[cameronaskin.info](http://cameronaskin.info)** - Crazy
+1. [codepen.io/ketnelson](http://codepen.io/ketnelson/full/LNjLVW) - Nice colors & blurred backgrounds
 1. [codepen.io/merraysy](http://codepen.io/merraysy/full/KzpwJG)
-1. [codepen.io/oneate7](http://codepen.io/oneate7/full/qdGprg)
+1. [codepen.io/oneate7](http://codepen.io/oneate7/full/qdGprg) - Icons for each project
 1. [coryhughart.com](http://coryhughart.com)
-1. [daman2408.github.io/my-portfolio](http://daman2408.github.io/my-portfolio)
-1. [derekknox.com](http://derekknox.com)
 1. [desandro.com](http://desandro.com/)
-1. [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio)
+1. [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio) - fsociety themed
 1. [felixsun.me](http://felixsun.me)
-1. [guglieri.com](http://guglieri.com)
+1. **[guglieri.com](http://guglieri.com)** - Crazy
 1. [hanno.co](http://hanno.co)
 1. [helgesverre.com](http://helgesverre.com)
 1. [httpete.com](http://httpete.com)
-1. [ivesvh.com](http://ivesvh.com)
-1. [j-w-v.com](http://j-w-v.com)
+1. [ivesvh.com](http://ivesvh.com) - Lots of animation
 1. [joma-web-schmie.de](http://joma-web-schmie.de)
 1. [josegarrido.me](http://josegarrido.me)
 1. [joshkissel.com](http://joshkissel.com)
 1. [justingillespie.com](http://justingillespie.com)
-1. [liviucmg.com](http://liviucmg.com)
 1. [manparvesh.github.io](http://manparvesh.github.io/)
 1. [marcuseisele.com](http://marcuseisele.com)
-1. [mauriceprosper.com](http://mauriceprosper.com)
 1. [michaelpumo.com](http://michaelpumo.com/)
 1. [ruigomes.me](http://ruigomes.me)
-1. [sambedingfield.com](http://sambedingfield.com)
-1. [shaykyasin.github.io](http://shaykyasin.github.io)
-1. [strml.net](http://strml.net)
-1. [zachsaucier.com](http://zachsaucier.com)
+1. [sambedingfield.com](http://sambedingfield.com) - Nice art
+1. [shaykyasin.github.io](http://shaykyasin.github.io) - Nice cover page & colors
+1. **[strml.net](http://strml.net)** - Animated page "codes itself"
 
 # The Whole List
 
