@@ -12,7 +12,48 @@ There's lots of [good advice about portfolio sites](https://www.reddit.com/r/web
 
 Feel free to add more (in alphabetical order), or remove yours if you'd rather not have it here. 
 
-# The List!
+# Highlights
+
+Here are some that I like, whether it be their overall design, the colors, or just a small UX touch. 
+
+* [abbyhubbard.design](http://abbyhubbard.design)
+* [briandelaney.com](http://briandelaney.com)
+* [bree-eros.github.io](http://bree-eros.github.io)
+* [brandondail.me](http://brandondail.me)
+* [cameronaskin.info](http://cameronaskin.info)
+* [codepen.io/gazzer82](http://codepen.io/gazzer82/full/gpVQQd)
+* [codepen.io/ketnelson](http://codepen.io/ketnelson/full/LNjLVW)
+* [codepen.io/LubaMay](http://codepen.io/LubaMay/full/YqZRWd)
+* [codepen.io/merraysy](http://codepen.io/merraysy/full/KzpwJG)
+* [codepen.io/oneate7](http://codepen.io/oneate7/full/qdGprg)
+* [coryhughart.com](http://coryhughart.com)
+* [daman2408.github.io/my-portfolio](http://daman2408.github.io/my-portfolio)
+* [derekknox.com](http://derekknox.com)
+* [desandro.com](http://desandro.com/)
+* [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio)
+* [felixsun.me](http://felixsun.me)
+* [guglieri.com](http://guglieri.com)
+* [hanno.co](http://hanno.co)
+* [helgesverre.com](http://helgesverre.com)
+* [httpete.com](http://httpete.com)
+* [ivesvh.com](http://ivesvh.com)
+* [j-w-v.com](http://j-w-v.com)
+* [joma-web-schmie.de](http://joma-web-schmie.de)
+* [josegarrido.me](http://josegarrido.me)
+* [joshkissel.com](http://joshkissel.com)
+* [justingillespie.com](http://justingillespie.com)
+* [liviucmg.com](http://liviucmg.com)
+* [manparvesh.github.io](http://manparvesh.github.io/)
+* [marcuseisele.com](http://marcuseisele.com)
+* [mauriceprosper.com](http://mauriceprosper.com)
+* [michaelpumo.com](http://michaelpumo.com/)
+* [ruigomes.me](http://ruigomes.me)
+* [sambedingfield.com](http://sambedingfield.com)
+* [shaykyasin.github.io](http://shaykyasin.github.io)
+* [strml.net](http://strml.net)
+* [zachsaucier.com](http://zachsaucier.com)
+
+# The Whole List
 
 * [aaronholmes.net](http://aaronholmes.net)
 * [abbyhubbard.design](http://abbyhubbard.design)
