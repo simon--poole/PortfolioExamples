@@ -19,9 +19,9 @@ Please follow the existing format.
 Here are some that I like, whether it be their overall design, the colors, or just a small UX touch. 
 
 1. [abbyhubbard.design](http://abbyhubbard.design)
-1. **[briandelaney.com](http://briandelaney.com)** - Very cool single-page design
+1. **[briandelaney.com](http://briandelaney.com)** - Single-page design with great UX
 1. [bree-eros.github.io](http://bree-eros.github.io)
-1. **[cameronaskin.info](http://cameronaskin.info)** - Crazy
+1. **[cameronaskin.info](http://cameronaskin.info)** - Polished single-page design
 1. [codepen.io/ketnelson](http://codepen.io/ketnelson/full/LNjLVW) - Nice colors & blurred backgrounds
 1. [codepen.io/merraysy](http://codepen.io/merraysy/full/KzpwJG)
 1. [codepen.io/oneate7](http://codepen.io/oneate7/full/qdGprg) - Icons for each project
@@ -29,7 +29,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [desandro.com](http://desandro.com/)
 1. [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio) - fsociety themed
 1. [felixsun.me](http://felixsun.me)
-1. **[guglieri.com](http://guglieri.com)** - Crazy
+1. **[guglieri.com](http://guglieri.com)** - Very polished single-page design
 1. [hanno.co](http://hanno.co)
 1. [helgesverre.com](http://helgesverre.com)
 1. [httpete.com](http://httpete.com)
