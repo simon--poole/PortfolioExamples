@@ -25,7 +25,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [coryhughart.com](http://coryhughart.com) - Nice style and art
 1. [desandro.com](http://desandro.com/)
 1. [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio) - fsociety themed
-1. [felixsun.me](http://felixsun.me)
+1. **[felixsun.me](http://felixsun.me)** - Nice cover animation
 1. **[guglieri.com](http://guglieri.com)** - Very polished single-page design
 1. [hanno.co](http://hanno.co)
 1. [httpete.com](http://httpete.com)
