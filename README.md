@@ -33,6 +33,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [joma-web-schmie.de](http://joma-web-schmie.de)
 1. [joshkissel.com](http://joshkissel.com)
 1. [justingillespie.com](http://justingillespie.com)
+1. [kevinpamaran.com](http://kevinpamaran.com/) - Nice cover
 1. [manparvesh.github.io](http://manparvesh.github.io/)
 1. [marcuseisele.com](http://marcuseisele.com)
 1. [michaelpumo.com](http://michaelpumo.com/) - Nice cover
@@ -158,6 +159,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [keats.me](http://keats.me)
 1. [keithclark.co.uk](http://keithclark.co.uk)
 1. [kemdu.lt](http://kemdu.lt)
+1. [kevinpamaran.com](http://kevinpamaran.com/)
 1. [kylebelanger.com](http://kylebelanger.com)
 1. [liviucmg.com](http://liviucmg.com)
 1. [lukemichaels.herokuapp.com](http://lukemichaels.herokuapp.com)
