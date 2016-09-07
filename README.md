@@ -36,6 +36,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [manparvesh.github.io](http://manparvesh.github.io/)
 1. [marcuseisele.com](http://marcuseisele.com)
 1. [michaelpumo.com](http://michaelpumo.com/) - Nice cover
+1. [nanja.space](http://nanja.space) - Playful animations
 1. [ruigomes.me](http://ruigomes.me)
 1. [sambedingfield.com](http://sambedingfield.com) - Nice art
 1. [shaykyasin.github.io](http://shaykyasin.github.io) - Nice cover page & colors
@@ -176,6 +177,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [michaelfogleman.com](https://www.michaelfogleman.com/)
 1. [michaelpumo.com](http://michaelpumo.com/)
 1. [mollyjameson.com](http://mollyjameson.com)
+1. [nanja.space](http://nanja.space)
 1. [nateberkopec.com](http://nateberkopec.com)
 1. [nicholashorn.com](http://nicholashorn.com)
 1. [nickfletchr.com](http://nickfletchr.com)
