@@ -23,6 +23,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [codepen.io/ketnelson](http://codepen.io/ketnelson/full/LNjLVW) - Nice colors & blurred backgrounds
 1. [codepen.io/oneate7](http://codepen.io/oneate7/full/qdGprg) - Icons for each project
 1. [coryhughart.com](http://coryhughart.com) - Nice style and art
+1. **[courtneysgamecoderocks.com](http://courtneysgamecoderocks.com/)** - Great polish and energy
 1. [desandro.com](http://desandro.com/)
 1. [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio) - fsociety themed
 1. **[felixsun.me](http://felixsun.me)** - Nice cover animation
@@ -101,6 +102,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [colbydude.com](http://colbydude.com)
 1. [coryhughart.com](http://coryhughart.com)
 1. [corynorris.me](http://corynorris.me)
+1. [courtneysgamecoderocks.com](http://courtneysgamecoderocks.com/)
 1. [crmpicco.co.uk](http://crmpicco.co.uk)
 1. [daman2408.github.io/my-portfolio](http://daman2408.github.io/my-portfolio)
 1. [damianschwyrz.de](http://damianschwyrz.de)
