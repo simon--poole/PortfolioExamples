@@ -135,7 +135,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [igvita.com](http://igvita.com)
 1. [ilikeprograms.com](http://ilikeprograms.com)
 1. [ivesvh.com](http://ivesvh.com)
-1. [j-w-v.com](http://j-w-v.com)
+1. [j-w-v.com](http://www.j-w-v.com/)
 1. [jakereynolds.co](http://jakereynolds.co)
 1. [jangirrishabh.weebly.com](http://jangirrishabh.weebly.com)
 1. [jasonhee.com](http://jasonhee.com)
