@@ -25,7 +25,6 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [coryhughart.com](http://coryhughart.com) - Nice style and art
 1. **[courtneysgamecoderocks.com](http://courtneysgamecoderocks.com/)** - Great polish and energy
 1. [desandro.com](http://desandro.com/)
-1. [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio) - fsociety themed
 1. **[felixsun.me](http://felixsun.me)** - Nice cover animation
 1. **[guglieri.com](http://guglieri.com)** - Very polished single-page design
 1. [hanno.co](http://hanno.co)
@@ -111,7 +110,6 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [derekknox.com](http://derekknox.com)
 1. [desandro.com](http://desandro.com/)
 1. [dividedzero.com](http://dividedzero.com)
-1. [dokeet.github.io/portfolio](http://dokeet.github.io/portfolio)
 1. [donaldcameron77.info](http://donaldcameron77.info)
 1. [drewbarontini.com](http://drewbarontini.com/)
 1. [drewrawitz.com](http://drewrawitz.com)
