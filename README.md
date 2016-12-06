@@ -117,7 +117,6 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [ekstrakt.mk](http://ekstrakt.mk)
 1. [elliotforbes.co.uk](http://elliotforbes.co.uk)
 1. [en.nicolasbouliane.com](http://en.nicolasbouliane.com)
-1. [evanirla.com](http://evanirla.com)
 1. [evanyou.me](http://evanyou.me/)
 1. [felixsun.me](http://felixsun.me)
 1. [fourtonfish.com](http://fourtonfish.com)
