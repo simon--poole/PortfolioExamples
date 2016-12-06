@@ -124,7 +124,6 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [furycodes.com](http://furycodes.com)
 1. [giorgiodelgado.ca](http://giorgiodelgado.ca)
 1. [glebbahmutov.com](https://glebbahmutov.com/)
-1. [goscripting.nl](http://goscripting.nl)
 1. [gregdizzia.com](http://gregdizzia.com)
 1. [guglieri.com](http://guglieri.com)
 1. [hanno.co](http://hanno.co)
