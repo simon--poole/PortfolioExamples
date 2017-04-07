@@ -1,4 +1,4 @@
-###*My Other Resource Lists*
+### My Other Resource Lists
 
 * *[Web Development Study Resources](https://github.com/dargaCode/WebDevStudyResources/blob/master/README.md)*
 * *[Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)*
