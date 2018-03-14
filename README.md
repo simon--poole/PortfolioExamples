@@ -188,6 +188,7 @@ Here are some that I like, whether it be their overall design, the colors, or ju
 1. [paulkmiller.com](http://paulkmiller.com)
 1. [probably.ninja](http://probably.ninja/)
 1. [richardhessler.com](http://richardhessler.com)
+1. [rleonardi.com](http://www.rleonardi.com/)
 1. [ruigomes.me](http://ruigomes.me)
 1. [ryan.mcgeary.org](http://ryan.mcgeary.org/)
 1. [ryantaylordev.ca](http://ryantaylordev.ca)
